@@ -1,0 +1,1 @@
+A university assignment for Umeå-university to create Conway's game of life on a 20x20 board with fixed starting positions in Python
